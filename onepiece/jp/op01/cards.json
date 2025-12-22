@@ -4,7 +4,7 @@
   "set": {
     "code": "OP-01",
     "name": "Romance Dawn",
-    "totalCards": 155
+    "totalCards": 154
   },
   "cards": [
   {
@@ -1084,13 +1084,6 @@
     "type": "CHARACTER",
     "rarity": "SEC",
     "variant": "ALT_ART"
-  },
-  {
-    "code": "OP01-DON",
-    "name": "DON!! Card",
-    "type": "DON",
-    "rarity": "DON",
-    "variant": "NORMAL"
   }
 ]
 }
