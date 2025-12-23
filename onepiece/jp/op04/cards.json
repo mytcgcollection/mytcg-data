@@ -1,0 +1,1054 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-04",
+    "name": "Kingdoms of Intrigue",
+    "totalCards": 149
+  },
+  "cards": [
+  {
+    "code": "OP04-001",
+    "name": "Nefeltari Vivi",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-001",
+    "name": "Nefeltari Vivi",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-002",
+    "name": "Igaram",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-003",
+    "name": "Usopp",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-004",
+    "name": "Karoo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-005",
+    "name": "Kung Fu Jugon",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-006",
+    "name": "Koza",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-007",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-008",
+    "name": "Chaka",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-009",
+    "name": "Super Spot-Billed Duck Troops",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-010",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-011",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-012",
+    "name": "Nefeltari Cobra",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-013",
+    "name": "Pell",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-013",
+    "name": "Pell",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-014",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-015",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-016",
+    "name": "Bad Manners Kick Course",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-017",
+    "name": "Happiness Punch",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-018",
+    "name": "Enchanting Vertigo Dance",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-019",
+    "name": "Donquixote Doflamingo",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-019",
+    "name": "Donquixote Doflamingo",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-020",
+    "name": "Issho",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-020",
+    "name": "Issho",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-021",
+    "name": "Viola",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-022",
+    "name": "Eric",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-023",
+    "name": "Kuro",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-024",
+    "name": "Sugar",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-024",
+    "name": "Sugar",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-025",
+    "name": "Giolla",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-026",
+    "name": "Senor Pink",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-027",
+    "name": "Daddy Masterson",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-028",
+    "name": "Diamante",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-028",
+    "name": "Diamante",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-029",
+    "name": "Dellinger",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-030",
+    "name": "Trebol",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-030",
+    "name": "Trebol",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-031",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-031",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-032",
+    "name": "Baby 5",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-033",
+    "name": "Machvise",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-034",
+    "name": "Lao.G",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-035",
+    "name": "Spiderweb",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-036",
+    "name": "Donquixote Family",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-037",
+    "name": "Flapping Thread",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-038",
+    "name": "The Weak Do Not Have the Right to Choose How They Die!!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-039",
+    "name": "Rebecca",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-039",
+    "name": "Rebecca",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-040",
+    "name": "Queen",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-040",
+    "name": "Queen",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-041",
+    "name": "Apis",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-042",
+    "name": "Ipponmatsu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-043",
+    "name": "Ulti",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-044",
+    "name": "Kaido",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-044",
+    "name": "Kaido",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-045",
+    "name": "King",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-046",
+    "name": "Queen",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-047",
+    "name": "Ice Oni",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-048",
+    "name": "Sasaki",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-049",
+    "name": "Jack",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-050",
+    "name": "Hanger",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-051",
+    "name": "Who's.Who",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-051",
+    "name": "Who's.Who",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-052",
+    "name": "Black Maria",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-053",
+    "name": "Page One",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-054",
+    "name": "Rokki",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-055",
+    "name": "Plague Rounds",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-056",
+    "name": "Gum-Gum Red Roc",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-057",
+    "name": "Dragon Twister Demolition Breath",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-058",
+    "name": "Crocodile",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-058",
+    "name": "Crocodile",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-059",
+    "name": "Iceburg",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-060",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-060",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-061",
+    "name": "Tom",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-062",
+    "name": "Bananagator",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-063",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-064",
+    "name": "Ms. All Sunday",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-064",
+    "name": "Ms. All Sunday",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-065",
+    "name": "Miss.Goldenweek(Marianne)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-066",
+    "name": "Miss.Valentine(Mikita)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-067",
+    "name": "Miss.MerryChristmas(Drophy)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-068",
+    "name": "Yokozuna",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-069",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-070",
+    "name": "Mr.3(Galdino)",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-071",
+    "name": "Mr.4(Babe)",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-072",
+    "name": "Mr.5(Gem)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-072",
+    "name": "Mr.5(Gem)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-073",
+    "name": "Mr.13 & Ms.Friday",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-074",
+    "name": "Colors Trap",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-075",
+    "name": "Nez-Palm Cannon",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-076",
+    "name": "Weakness...Is an Unforgivable Sin.",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-077",
+    "name": "Ideo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-078",
+    "name": "Oimo & Kashii",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-079",
+    "name": "Orlumbus",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-080",
+    "name": "Gyats",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-081",
+    "name": "Cavendish",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-082",
+    "name": "Kyros",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-082",
+    "name": "Kyros",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-083",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-083",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-083",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "MANGA"
+  },
+  {
+    "code": "OP04-084",
+    "name": "Stussy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-085",
+    "name": "Suleiman",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-086",
+    "name": "Chinjao",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-087",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-088",
+    "name": "Hajrudin",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-089",
+    "name": "Bartolomeo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-090",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-090",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-091",
+    "name": "Leo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-092",
+    "name": "Rebecca",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-093",
+    "name": "Gum-Gum King Kong Gun",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-094",
+    "name": "Trueno Bastardo",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-095",
+    "name": "Barrier!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-096",
+    "name": "Corrida Coliseum",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-097",
+    "name": "Otama",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-098",
+    "name": "Toko",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-099",
+    "name": "Olin",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-100",
+    "name": "Capone\"Gang\"Bege",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-100",
+    "name": "Capone\"Gang\"Bege",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-101",
+    "name": "Carmel",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-102",
+    "name": "Kin'emon",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-103",
+    "name": "Kouzuki Hiyori",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-104",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-104",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-105",
+    "name": "Charlotte Amande",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-106",
+    "name": "Charlotte Bavarois",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-107",
+    "name": "Charlotte Perospero",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-108",
+    "name": "Charlotte Moscato",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-109",
+    "name": "Tonoyasu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-110",
+    "name": "Pound",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-111",
+    "name": "Hera",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-112",
+    "name": "Yamato",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-112",
+    "name": "Yamato",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-113",
+    "name": "Rabiyan",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-114",
+    "name": "Randolph",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-115",
+    "name": "Gun Modoki",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-116",
+    "name": "Diable Jambe Joue Shot",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-117",
+    "name": "Heavenly Fire",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-118",
+    "name": "Nefeltari Vivi",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-118",
+    "name": "Nefeltari Vivi",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP04-119",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "NORMAL"
+  },
+  {
+    "code": "OP04-119",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP01-047",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP01-078",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP02-004",
+    "name": "Edward.Newgate",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP02-085",
+    "name": "Magellan",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "ALT_ART"
+  },
+  {
+    "code": "OP02-099",
+    "name": "Sakazuki",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "ALT_ART"
+  }
+]
+}
