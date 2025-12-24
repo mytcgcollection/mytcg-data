@@ -12,1078 +12,1078 @@
     "name": "Sabo",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-001",
     "name": "Sabo",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-002",
     "name": "Belo Betty",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-002",
     "name": "Belo Betty",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-003",
     "name": "Inazuma",
     "type": "LEADER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-004",
     "name": "Emporio.Ivankov",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-005",
     "name": "Karasu",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-006",
     "name": "Koala",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-006",
     "name": "Koala",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-007",
     "name": "Sabo",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-007",
     "name": "Sabo",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-008",
     "name": "Chaka",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-009",
     "name": "Toh-Toh",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-010",
     "name": "Nico Robin",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-011",
     "name": "Bartholomew Kuma",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-012",
     "name": "Hack",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-013",
     "name": "Bunny Joe",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-014",
     "name": "Pell",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-015",
     "name": "Belo Betty",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-015",
     "name": "Belo Betty",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-016",
     "name": "Morley",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-017",
     "name": "Lindbergh",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-018",
     "name": "Emporio Energy Hormone",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-019",
     "name": "Fire Fist",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-020",
     "name": "Four Thousand-Brick Fist",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-021",
     "name": "Revolutionary Army HQ",
     "type": "STAGE",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-022",
     "name": "Donquixote Rosinante",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-022",
     "name": "Donquixote Rosinante",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-023",
     "name": "Vergo",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-024",
     "name": "Kuween",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-025",
     "name": "Gladius",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-026",
     "name": "Sarquiss",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-027",
     "name": "Trafalgar Law",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-028",
     "name": "Donquixote Doflamingo",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-029",
     "name": "Donquixote Doflamingo",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-030",
     "name": "Donquixote Rosinante",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-031",
     "name": "Buffalo",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-032",
     "name": "Pica",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-032",
     "name": "Pica",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-033",
     "name": "Baby 5",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-034",
     "name": "Baby 5",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-034",
     "name": "Baby 5",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-035",
     "name": "Bellamy",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-036",
     "name": "Monet",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-037",
     "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-038",
     "name": "Charlestone",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-039",
     "name": "Stick-Stickem Meteora",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-040",
     "name": "Birdcage",
     "type": "STAGE",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-041",
     "name": "Sakazuki",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-041",
     "name": "Sakazuki",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-042",
     "name": "Issho",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-043",
     "name": "Ulti",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-043",
     "name": "Ulti",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-044",
     "name": "John Giant",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-045",
     "name": "Stainless",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-046",
     "name": "Dalmatian",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-047",
     "name": "Basil Hawkins",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-048",
     "name": "Bastille",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-049",
     "name": "Haccha",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-050",
     "name": "Hina",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-051",
     "name": "Borsalino",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-051",
     "name": "Borsalino",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-052",
     "name": "Maynard",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-053",
     "name": "Mozambia",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-054",
     "name": "Monkey.D.Garp",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-055",
     "name": "X.Drake",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-055",
     "name": "X.Drake",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-056",
     "name": "X.Barrels",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-057",
     "name": "Hound Blaze",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-058",
     "name": "It's a Waste of Human Life!!",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-059",
     "name": "Let Us Begin the World of Violence!!!",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-060",
     "name": "Monkey.D.Luffy",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-060",
     "name": "Monkey.D.Luffy",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-061",
     "name": "Uso-Hachi",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-062",
     "name": "O-Nami",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-063",
     "name": "O-Robi",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-064",
     "name": "Killer",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-065",
     "name": "San-Gorou",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-066",
     "name": "Jinbe",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-067",
     "name": "Zoro-Juurou",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-067",
     "name": "Zoro-Juurou",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-068",
     "name": "Chopa-Emon",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-069",
     "name": "Trafalgar Law",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-069",
     "name": "Trafalgar Law",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-069",
     "name": "Trafalgar Law",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "MANGA"
+    "variant": "p2"
   },
   {
     "code": "OP05-070",
     "name": "Fra-Nosuke",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-071",
     "name": "Bepo",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-072",
     "name": "Hone-Kichi",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-073",
     "name": "Miss Doublefinger(Zala)",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-074",
     "name": "Eustass\"Captain\"Kid",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-074",
     "name": "Eustass\"Captain\"Kid",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-074",
     "name": "Eustass\"Captain\"Kid",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "MANGA"
+    "variant": "p2"
   },
   {
     "code": "OP05-075",
     "name": "Mr.1(Daz.Bonez)",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-076",
     "name": "When You're at Sea You Fight against Pirates!!",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-077",
     "name": "Gamma Knife",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-078",
     "name": "Punk Rotten",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-079",
     "name": "Viola",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-080",
     "name": "Elizabello II",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-081",
     "name": "One-Legged Toy Soldier",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-082",
     "name": "Shirahoshi",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-083",
     "name": "Sterry",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-084",
     "name": "Saint Charlos",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-085",
     "name": "Nefeltari Cobra",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-086",
     "name": "Nefeltari Vivi",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-087",
     "name": "Hakuba",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-088",
     "name": "Mansherry",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-088",
     "name": "Mansherry",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-089",
     "name": "Saint Mjosgard",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-090",
     "name": "Riku Doldo III",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-091",
     "name": "Rebecca",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-091",
     "name": "Rebecca",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-092",
     "name": "Saint Rosward",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-093",
     "name": "Rob Lucci",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-093",
     "name": "Rob Lucci",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-094",
     "name": "Haute Couture Patch★Work",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-095",
     "name": "Dragon Claw",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-096",
     "name": "I Bid 500 Million!!",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-097",
     "name": "Mary Geoise",
     "type": "STAGE",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-098",
     "name": "Enel",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-098",
     "name": "Enel",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-099",
     "name": "Amazon",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-100",
     "name": "Enel",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-100",
     "name": "Enel",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-101",
     "name": "Ohm",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-102",
     "name": "Gedatsu",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-102",
     "name": "Gedatsu",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-103",
     "name": "Kotori",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-104",
     "name": "Conis",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-105",
     "name": "Satori",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-106",
     "name": "Shura",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-107",
     "name": "Lieutenant Spacey",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-108",
     "name": "Nola",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-109",
     "name": "Pagaya",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-110",
     "name": "Holly",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-111",
     "name": "Hotori",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-112",
     "name": "Captain McKinley",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-113",
     "name": "Yama",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-114",
     "name": "El Thor",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-115",
     "name": "Two-Hundred Million Volts Amaru",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-116",
     "name": "Hino Bird Zap",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-117",
     "name": "Upper Yard",
     "type": "STAGE",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-118",
     "name": "Kaido",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-118",
     "name": "Kaido",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-119",
     "name": "Monkey.D.Luffy",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP05-119",
     "name": "Monkey.D.Luffy",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP05-119",
     "name": "Monkey.D.Luffy",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "MANGA"
+    "variant": "p2"
   },
   {
     "code": "ST01-012",
     "name": "Monkey.D.Luffy",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": "p2"
   },
   {
     "code": "ST01-012",
     "name": "Monkey.D.Luffy",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p3"
   },
   {
     "code": "OP01-016",
     "name": "Nami",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p4"
   },
   {
     "code": "OP01-121",
     "name": "Yamato",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p2"
   },
   {
     "code": "OP02-120",
     "name": "Uta",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p2"
   },
   {
     "code": "OP03-092",
     "name": "Rob Lucci",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p2"
   },
   {
     "code": "OP04-044",
     "name": "Kaido",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p2"
   },
   {
     "code": "OP05-100",
     "name": "Enel",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p2"
   }
 ]
 }
