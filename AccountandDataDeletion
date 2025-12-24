@@ -1,16 +1,23 @@
-Account and Data Deletion – My TCG Collection
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Account and Data Deletion – My TCG Collection</title>
+</head>
+<body>
+  <h1>Account and Data Deletion</h1>
 
-If you would like to delete your My TCG Collection account and associated data, please email us at:
+  <p>To delete your My TCG Collection account and associated data, please contact us at:</p>
 
-iitzmyung@gmail.com
+  <p><strong>mytcgcollection@gmail.com</strong></p>
 
-Include the email address used to register your account.
+  <p>Please include the email address used to create your account.</p>
 
-What data is deleted:
-- Account information (email / user ID)
-- Card collection data associated with the account
+  <h2>Data that will be deleted</h2>
+  <ul>
+    <li>Account information (email / user ID)</li>
+    <li>User card collection data</li>
+  </ul>
 
-Deletion timeframe:
-- Requests are processed within 7 days
-
-Some data may be retained temporarily for legal or security purposes.
+  <p>Deletion requests are processed within 7 days.</p>
+</body>
+</html>
