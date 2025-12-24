@@ -12,1078 +12,1078 @@
     "name": "Portgas.D.Ace",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-001",
     "name": "Portgas.D.Ace",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-002",
     "name": "Adio",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-003",
     "name": "Izo",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-004",
     "name": "Curiel",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-005",
     "name": "Thatch",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-006",
     "name": "Speed Jil",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-007",
     "name": "Namule",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-008",
     "name": "Buggy",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-009",
     "name": "Haruta",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-010",
     "name": "Fossa",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-011",
     "name": "Blamenco",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-012",
     "name": "Marshall.D.Teach",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-013",
     "name": "Marco",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-013",
     "name": "Marco",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-014",
     "name": "Monkey.D.Garp",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-015",
     "name": "Lim",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-016",
     "name": "Flame Emperor",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-017",
     "name": "Cross Fire",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-018",
     "name": "Fire Fist",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-018",
     "name": "Fire Fist",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-019",
     "name": "Fiery Doll",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-020",
     "name": "Striker",
     "type": "STAGE",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-021",
     "name": "Kuro",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-021",
     "name": "Kuro",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-022",
     "name": "Arlong",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-022",
     "name": "Arlong",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-023",
     "name": "Alvida",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-024",
     "name": "Gin",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-024",
     "name": "Gin",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-025",
     "name": "Krieg",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-025",
     "name": "Krieg",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-026",
     "name": "Kuroobi",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-027",
     "name": "Sham",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-028",
     "name": "Jango",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-029",
     "name": "Chew",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-030",
     "name": "Nami",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-031",
     "name": "Pearl",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-032",
     "name": "Buggy",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-033",
     "name": "Hatchan",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-034",
     "name": "Buchi",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-035",
     "name": "Momoo",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-036",
     "name": "Out-of-the-Bag",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-037",
     "name": "Tooth Attack",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-038",
     "name": "Deathly Poison Gas Bomb MH5",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-039",
     "name": "One, Two, Jango",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-040",
     "name": "Nami",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-040",
     "name": "Nami",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-041",
     "name": "Usopp",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-041",
     "name": "Usopp",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-042",
     "name": "Usopp's Pirate Crew",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-043",
     "name": "Gaimon",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-044",
     "name": "Kaya",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-045",
     "name": "Carne",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-046",
     "name": "Genzo",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-047",
     "name": "Zeff",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-047",
     "name": "Zeff",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-048",
     "name": "Nojiko",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-049",
     "name": "Patty",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-050",
     "name": "Boodle",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-051",
     "name": "Bell-mère",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-052",
     "name": "Merry",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-053",
     "name": "Yosaku & Johnny",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-054",
     "name": "Usopp's Rubber Band of Doom!!!",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-055",
     "name": "Gum-Gum Giant Gavel",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-056",
     "name": "Sanji's Pilaf",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-057",
     "name": "Three Thousand Worlds",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-058",
     "name": "Iceburg",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-058",
     "name": "Iceburg",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-059",
     "name": "Kaku",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-060",
     "name": "Kalifa",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-061",
     "name": "Kiwi & Mozu",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-062",
     "name": "Kokoro",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-063",
     "name": "Zambai",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-064",
     "name": "Tilestone",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-065",
     "name": "Chimney & Gonbe",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-066",
     "name": "Paulie",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-066",
     "name": "Paulie",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-067",
     "name": "Peepley Lulu",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-068",
     "name": "Minozebra",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-069",
     "name": "Minorhinoceros",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-070",
     "name": "Monkey.D.Luffy",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-071",
     "name": "Rob Lucci",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-072",
     "name": "Gum-Gum Jet Gatling",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-073",
     "name": "Hull Dismantler Slash",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-074",
     "name": "Top Knot",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-075",
     "name": "Galley-La Company",
     "type": "STAGE",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-076",
     "name": "Rob Lucci",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-076",
     "name": "Rob Lucci",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-077",
     "name": "Charlotte Linlin",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-077",
     "name": "Charlotte Linlin",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-078",
     "name": "Issho",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-078",
     "name": "Issho",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-079",
     "name": "Vergo",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-080",
     "name": "Kaku",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-080",
     "name": "Kaku",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-081",
     "name": "Kalifa",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-081",
     "name": "Kalifa",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-082",
     "name": "Kumadori",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-083",
     "name": "Corgy",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-084",
     "name": "Jerry",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-085",
     "name": "Jabra",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-086",
     "name": "Spandam",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-086",
     "name": "Spandam",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-087",
     "name": "Nero",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-088",
     "name": "Fukurou",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-089",
     "name": "Brannew",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-090",
     "name": "Blueno",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-091",
     "name": "Helmeppo",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-092",
     "name": "Rob Lucci",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-092",
     "name": "Rob Lucci",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-093",
     "name": "Wanze",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-094",
     "name": "Air Door",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-095",
     "name": "Soap Sheep",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-096",
     "name": "Tempest Kick Sky Slicer",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-097",
     "name": "Six King Pistol",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-098",
     "name": "Enies Lobby",
     "type": "STAGE",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-099",
     "name": "Charlotte Katakuri",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-099",
     "name": "Charlotte Katakuri",
     "type": "LEADER",
     "rarity": "L",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-100",
     "name": "Kingbaum",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-101",
     "name": "Camie",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-102",
     "name": "Sanji",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-103",
     "name": "Bobbin the Disposer",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-104",
     "name": "Shirley",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-105",
     "name": "Charlotte Oven",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-106",
     "name": "Charlotte Opera",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-107",
     "name": "Charlotte Galette",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-108",
     "name": "Charlotte Cracker",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-108",
     "name": "Charlotte Cracker",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-109",
     "name": "Charlotte Chiffon",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-110",
     "name": "Charlotte Smoothie",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-111",
     "name": "Charlotte Praline",
     "type": "CHARACTER",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-112",
     "name": "Charlotte Pudding",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-112",
     "name": "Charlotte Pudding",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-113",
     "name": "Charlotte Perospero",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-113",
     "name": "Charlotte Perospero",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-114",
     "name": "Charlotte Linlin",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-114",
     "name": "Charlotte Linlin",
     "type": "CHARACTER",
     "rarity": "SR",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-115",
     "name": "Streusen",
     "type": "CHARACTER",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-116",
     "name": "Shirahoshi",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-117",
     "name": "Napoleon",
     "type": "CHARACTER",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-118",
     "name": "Ikoku Sovereignty",
     "type": "EVENT",
     "rarity": "UC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-119",
     "name": "Buzz Cut Mochi",
     "type": "EVENT",
     "rarity": "R",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-120",
     "name": "Tropical Torment",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-121",
     "name": "Thunder Bolt",
     "type": "EVENT",
     "rarity": "C",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-122",
     "name": "Sogeking",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-122",
     "name": "Sogeking",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP03-122",
     "name": "Sogeking",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "MANGA"
+    "variant": "p2"
   },
   {
     "code": "OP03-123",
     "name": "Charlotte Katakuri",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "NORMAL"
+    "variant": ""
   },
   {
     "code": "OP03-123",
     "name": "Charlotte Katakuri",
     "type": "CHARACTER",
     "rarity": "SEC",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "OP01-051",
     "name": "Eustass\"Captain\"Kid",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p2"
   },
   {
     "code": "ST01-012",
     "name": "Monkey.D.Luffy",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "ST03-009",
     "name": "Donquixote Doflamingo",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p1"
   },
   {
     "code": "ST04-003",
     "name": "Kaido",
     "type": "CHARACTER",
     "rarity": "SP",
-    "variant": "ALT_ART"
+    "variant": "p1"
   }
 ]
 }
