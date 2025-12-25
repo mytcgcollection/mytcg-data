@@ -1,0 +1,1061 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-06",
+    "name": "500 Years in the Future",
+    "totalCards": 150
+  },
+  "cards": [
+  {
+    "code": "OP07-001",
+    "name": "Monkey.D.Dragon",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP07-001",
+    "name": "Monkey.D.Dragon",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-002",
+    "name": "Ain",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-003",
+    "name": "Outlook III",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-004",
+    "name": "Curly.Dadan",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-005",
+    "name": "Carina",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-005",
+    "name": "Carina",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-006",
+    "name": "Sterry",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-007",
+    "name": "Dice",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-008",
+    "name": "Mr. Tanaka",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-009",
+    "name": "Dogura & Magura",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-010",
+    "name": "Baccarat",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-011",
+    "name": "Bluejam",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-012",
+    "name": "Porchemy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-013",
+    "name": "Masked Deuce",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-014",
+    "name": "Moda",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-015",
+    "name": "Monkey.D.Dragon",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-015",
+    "name": "Monkey.D.Dragon",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-016",
+    "name": "Galaxy Wink",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-017",
+    "name": "Dragon Breath",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-018",
+    "name": "KEEP OUT",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-019",
+    "name": "Jewelry Bonney",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP07-019",
+    "name": "Jewelry Bonney",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-020",
+    "name": "Aladine",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-021",
+    "name": "Urouge",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-022",
+    "name": "Otama",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-022",
+    "name": "Otama",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-023",
+    "name": "Caribou",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-024",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-025",
+    "name": "Coribou",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-026",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-026",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-027",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-028",
+    "name": "Scratchmen Apoo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-029",
+    "name": "Basil Hawkins",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-029",
+    "name": "Basil Hawkins",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-030",
+    "name": "Pappag",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-031",
+    "name": "Bartolomeo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-032",
+    "name": "Fisher Tiger",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-033",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-034",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-035",
+    "name": "Karmic Punishment",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-036",
+    "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-037",
+    "name": "More Pizza!!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-038",
+    "name": "Boa Hancock",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP07-038",
+    "name": "Boa Hancock",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-039",
+    "name": "Edward Weevil",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-040",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-041",
+    "name": "Gloriosa (Grandma Nyon)",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-042",
+    "name": "Gecko Moria",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-043",
+    "name": "Salome",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-044",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-045",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-045",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-046",
+    "name": "Sengoku",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-046",
+    "name": "Sengoku",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-047",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-047",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-048",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-049",
+    "name": "Buckin",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-050",
+    "name": "Boa Sandersonia",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-051",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-051",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-051",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p2"
+  },
+  {
+    "code": "OP07-052",
+    "name": "Boa Marigold",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-053",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-054",
+    "name": "Marguerite",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-055",
+    "name": "Snake Dance",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-056",
+    "name": "Slave Arrow",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-057",
+    "name": "Perfume Femur",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-058",
+    "name": "Island of Women",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-059",
+    "name": "Foxy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP07-059",
+    "name": "Foxy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-060",
+    "name": "Itomimizu",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-061",
+    "name": "Vinsmoke Sanji",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-062",
+    "name": "Vinsmoke Reiju",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-063",
+    "name": "Capote",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-064",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-064",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-065",
+    "name": "Gina",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-066",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-067",
+    "name": "Tonjit",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-068",
+    "name": "Hamburg",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-069",
+    "name": "Pickles",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-070",
+    "name": "Big Bun",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-071",
+    "name": "Foxy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-071",
+    "name": "Foxy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-072",
+    "name": "Porche",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-072",
+    "name": "Porche",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-073",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-074",
+    "name": "Monda",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-075",
+    "name": "Slow-Slow Beam",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-076",
+    "name": "Slow-Slow Beam Sword",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-077",
+    "name": "We're Going to Claim the One Piece!!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-078",
+    "name": "Megaton Nine-Tails Rush",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-079",
+    "name": "Rob Lucci",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP07-079",
+    "name": "Rob Lucci",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-080",
+    "name": "Kaku",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-081",
+    "name": "Kalifa",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-082",
+    "name": "Captain John",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-083",
+    "name": "Gecko Moria",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-084",
+    "name": "Gismonda",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-085",
+    "name": "Stussy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-085",
+    "name": "Stussy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-086",
+    "name": "Spandam",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-087",
+    "name": "Baskerville",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-088",
+    "name": "Hattori",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-089",
+    "name": "Maha",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-090",
+    "name": "Morgans",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-091",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-092",
+    "name": "Joseph",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-093",
+    "name": "Rob Lucci",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-094",
+    "name": "Shave",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-095",
+    "name": "Iron Body",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-096",
+    "name": "Tempest Kick",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-097",
+    "name": "Vegapunk",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP07-097",
+    "name": "Vegapunk",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-098",
+    "name": "Atlas",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-099",
+    "name": "Usopp",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-100",
+    "name": "Edison",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-101",
+    "name": "Shaka",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-102",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-103",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-104",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-105",
+    "name": "Pythagoras",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-106",
+    "name": "Fuza",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-107",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-107",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-108",
+    "name": "Vega Force 01",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-109",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-109",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-110",
+    "name": "York",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-111",
+    "name": "Lilith",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP07-111",
+    "name": "Lilith",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-112",
+    "name": "Lucy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-113",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-114",
+    "name": "He Possesses the World's Most Brilliant Mind",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-115",
+    "name": "I Re-Quasar Helllp!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-116",
+    "name": "Blaze Slice",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP07-117",
+    "name": "Egghead",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP07-118",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-118",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-119",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP07-119",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP01-035",
+    "name": "Okiku",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP01-073",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP03-003",
+    "name": "Izo",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "OP03-078",
+    "name": "Issho",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP05-074",
+    "name": "Eustass\"Captain\"Kid",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP06-101",
+    "name": "O-Nami",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  }
+]
+}
