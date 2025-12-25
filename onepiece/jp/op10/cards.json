@@ -1,0 +1,1061 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-10",
+    "name": "Royal Blood",
+    "totalCards": 150
+  },
+  "cards": [
+  {
+    "code": "OP10-001",
+    "name": "Smoker",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP10-001",
+    "name": "Smoker",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-002",
+    "name": "Caesar Clown",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP10-002",
+    "name": "Caesar Clown",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-003",
+    "name": "Sugar",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP10-003",
+    "name": "Sugar",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-004",
+    "name": "Vergo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-005",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-005",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-006",
+    "name": "Caesar Clown",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-007",
+    "name": "Caesar Soldier",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-008",
+    "name": "Scotch",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-009",
+    "name": "Smiley",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-010",
+    "name": "Chadros.Higelyges (Brownbeard)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-011",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-012",
+    "name": "Dragon Number Thirteen",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-013",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-014",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-015",
+    "name": "Mocha",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-016",
+    "name": "Monet",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-016",
+    "name": "Monet",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-017",
+    "name": "Rock",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-018",
+    "name": "Ten-Layer Igloo",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-019",
+    "name": "Divine Departure",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-019",
+    "name": "Divine Departure",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-020",
+    "name": "Gum-Gum UFO",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-021",
+    "name": "Punk Hazard",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-022",
+    "name": "Trafalgar Law",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP10-022",
+    "name": "Trafalgar Law",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-023",
+    "name": "Issho",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-024",
+    "name": "Edward.Newgate",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-025",
+    "name": "Enel",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-026",
+    "name": "Kin'emon",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-027",
+    "name": "Kin'emon",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-028",
+    "name": "Kouzuki Momonosuke",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-029",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-030",
+    "name": "Smoker",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-030",
+    "name": "Smoker",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-031",
+    "name": "Sengoku",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-032",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-032",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-033",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-034",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-035",
+    "name": "Brook",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-036",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-037",
+    "name": "Lim",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-037",
+    "name": "Lim",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-038",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-039",
+    "name": "Gum-Gum Dragon Fire Pistol Twister Star",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-040",
+    "name": "The Weak Do Not Have the Right to Choose How They Die",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-041",
+    "name": "Radio Knife",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-042",
+    "name": "Usopp",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP10-042",
+    "name": "Usopp",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-043",
+    "name": "Moocy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-044",
+    "name": "Cub",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-045",
+    "name": "Cavendish",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-045",
+    "name": "Cavendish",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-046",
+    "name": "Kyros",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-046",
+    "name": "Kyros",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-047",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-048",
+    "name": "Sai",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-049",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-050",
+    "name": "Hajrudin",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-051",
+    "name": "Hack",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-052",
+    "name": "Bartolomeo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-053",
+    "name": "Bian",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-054",
+    "name": "Blue Gilly",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-055",
+    "name": "Marco",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-056",
+    "name": "Mansherry",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-057",
+    "name": "Leo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-058",
+    "name": "Rebecca",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-058",
+    "name": "Rebecca",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-059",
+    "name": "Fo...llow...Me...and...I...Will...Gui...de...You",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-060",
+    "name": "Barrier-Barrier Pistol",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-061",
+    "name": "Special Long-Range Attack!! Bagworm",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-062",
+    "name": "Violet",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-063",
+    "name": "Vinsmoke Sanji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-064",
+    "name": "Clone Soldier",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-065",
+    "name": "Sugar",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-066",
+    "name": "Giolla",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-067",
+    "name": "Senor Pink",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-067",
+    "name": "Senor Pink",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-068",
+    "name": "Diamante",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-069",
+    "name": "Fighting Fish",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-070",
+    "name": "Trebol",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-071",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-071",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-072",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-072",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-073",
+    "name": "Buffalo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-074",
+    "name": "Pica",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-075",
+    "name": "Foxy",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-076",
+    "name": "Baby 5",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-077",
+    "name": "Bellamy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-078",
+    "name": "I Do Not Forgive Those Who Laugh at My Family!!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-079",
+    "name": "God Thread",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-080",
+    "name": "Little Black Bears",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-081",
+    "name": "Usopp",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-082",
+    "name": "Kuzan",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-082",
+    "name": "Kuzan",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-083",
+    "name": "Kouzuki Momonosuke",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-084",
+    "name": "Sanjuan.Wolf",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-085",
+    "name": "Jesus Burgess",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-086",
+    "name": "Shiryu",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-087",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-088",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-089",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-090",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-090",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-091",
+    "name": "Brook",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-092",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-093",
+    "name": "Saint Homing",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-094",
+    "name": "Ryuma",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-095",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-096",
+    "name": "There’s No Longer Any Need for the Seven Warlords of the Sea!!!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-097",
+    "name": "Gum-Gum Rhino Schneider",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-098",
+    "name": "Liberation",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-099",
+    "name": "Eustass\"Captain\"Kid",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP10-099",
+    "name": "Eustass\"Captain\"Kid",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-100",
+    "name": "Inazuma",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-101",
+    "name": "Urouge",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-102",
+    "name": "Emporio.Ivankov",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-103",
+    "name": "Capone\"Gang\"Bege",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-104",
+    "name": "Caribou",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-105",
+    "name": "Cavendish",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-106",
+    "name": "Killer",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-107",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-108",
+    "name": "Scratchmen Apoo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-109",
+    "name": "Basil Hawkins",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-110",
+    "name": "Heat & Wire",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-111",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-111",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-112",
+    "name": "Eustass\"Captain\"Kid",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP10-112",
+    "name": "Eustass\"Captain\"Kid",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-113",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-114",
+    "name": "X.Drake",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-115",
+    "name": "Let's Meet Again in the New World",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP10-116",
+    "name": "Damned Punk",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP10-117",
+    "name": "ROOM",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-118",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-118",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-119",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP10-119",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP10-119",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "EB01-056",
+    "name": "Charlotte Flampe",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP07-021",
+    "name": "Urouge",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "ST12-012",
+    "name": "Charlotte Pudding",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "ST14-003",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "ST15-002",
+    "name": "Edward.Newgate",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "ST18-001",
+    "name": "Uso-Hachi",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  }
+]
+}
