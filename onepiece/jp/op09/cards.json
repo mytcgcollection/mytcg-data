@@ -1,0 +1,1117 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-09",
+    "name": "Emperors in the New World",
+    "totalCards": 158
+  },
+  "cards": [
+  {
+    "code": "OP09-001",
+    "name": "Shanks",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP09-001",
+    "name": "Shanks",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-002",
+    "name": "Uta",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-002",
+    "name": "Uta",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-003",
+    "name": "Sachi & Penguin",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-004",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-004",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-004",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-005",
+    "name": "Silvers Rayleigh",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-006",
+    "name": "Howling Gab",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-007",
+    "name": "Heat",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-008",
+    "name": "Building Snake",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-009",
+    "name": "Benn.Beckman",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-009",
+    "name": "Benn.Beckman",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-010",
+    "name": "Bonk Punch",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-011",
+    "name": "Hongo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-012",
+    "name": "Monster",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-013",
+    "name": "Yasopp",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-014",
+    "name": "Limejuice",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-015",
+    "name": "Lucky.Roux",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-016",
+    "name": "Rockstar",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-017",
+    "name": "Wire",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-018",
+    "name": "Get Out of Here!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-019",
+    "name": "Nobody Hurts a Friend of Mine!!!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-020",
+    "name": "Come On!! We'll Fight You!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-021",
+    "name": "Red Force",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-022",
+    "name": "Lim",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP09-022",
+    "name": "Lim",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-023",
+    "name": "Adio",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-023",
+    "name": "Adio",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-024",
+    "name": "Usopp",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-025",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-026",
+    "name": "Sakazuki",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-027",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-028",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-029",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-030",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-031",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-032",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-033",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-034",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-034",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-035",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-036",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-037",
+    "name": "Lim",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-037",
+    "name": "Lim",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-038",
+    "name": "Rob Lucci",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-039",
+    "name": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-040",
+    "name": "Thunder Lance Flip Caliber Phoenix Shot",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-041",
+    "name": "Soul Franky Swing Arm Boxing Solid",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-042",
+    "name": "Buggy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP09-042",
+    "name": "Buggy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-043",
+    "name": "Alvida",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-044",
+    "name": "Izo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-045",
+    "name": "Cabaji",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-046",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-046",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-047",
+    "name": "Kouzuki Oden",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-048",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-048",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-049",
+    "name": "Jozu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-050",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-050",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-051",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-051",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-051",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-052",
+    "name": "Marco",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-053",
+    "name": "Mohji",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-054",
+    "name": "Richie",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-055",
+    "name": "Mr.1(Daz.Bonez)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-056",
+    "name": "Mr.3(Galdino)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-057",
+    "name": "Cross Guild",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-058",
+    "name": "Special Muggy Ball",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-059",
+    "name": "Murder at the Steam Bath",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-060",
+    "name": "Emptee Bluffs Island",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-061",
+    "name": "Monkey.D.Luffy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP09-061",
+    "name": "Monkey.D.Luffy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-062",
+    "name": "Nico Robin",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP09-062",
+    "name": "Nico Robin",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-063",
+    "name": "Usopp",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-064",
+    "name": "Killer",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-065",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-065",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-066",
+    "name": "Jean Bart",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-067",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-068",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-069",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-069",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-070",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-071",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-072",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-072",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-073",
+    "name": "Brook",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-074",
+    "name": "Bepo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-075",
+    "name": "Eustass\"Captain\"Kid",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-076",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-077",
+    "name": "Gum-Gum Lightning",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-078",
+    "name": "Gum-Gum Giant",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-079",
+    "name": "Gum-Gum Jump Rope",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-080",
+    "name": "Thousand Sunny",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-081",
+    "name": "Marshall.D.Teach",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP09-081",
+    "name": "Marshall.D.Teach",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-082",
+    "name": "Avalo Pizarro",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-083",
+    "name": "Van Augur",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-084",
+    "name": "Catarina Devon",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-085",
+    "name": "Gecko Moria",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-086",
+    "name": "Jesus Burgess",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-087",
+    "name": "Charlotte Pudding",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-088",
+    "name": "Shiryu",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-089",
+    "name": "Stronger",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-090",
+    "name": "Doc Q",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-091",
+    "name": "Vasco Shot",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-092",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-093",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-093",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-093",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-094",
+    "name": "Peachbeard",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-095",
+    "name": "Laffitte",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-096",
+    "name": "My Era...Begins!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-097",
+    "name": "Black Vortex",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-098",
+    "name": "Black Hole",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-099",
+    "name": "Fullalead",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-100",
+    "name": "Karasu",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-101",
+    "name": "Kauzan",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-102",
+    "name": "Professor Clover",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-103",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP09-103",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-104",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-105",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-106",
+    "name": "Nico Olvia",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-107",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-107",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-108",
+    "name": "Bartholomew Kuma",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-109",
+    "name": "Jaguar.D.Saul",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-110",
+    "name": "Pierre",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-111",
+    "name": "Brook",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-112",
+    "name": "Belo Betty",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-113",
+    "name": "Morley",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-114",
+    "name": "Lindbergh",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-115",
+    "name": "Ice Block Partisan",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-116",
+    "name": "Never Underestimate the Power of Miracles!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP09-117",
+    "name": "Dereshi!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP09-118",
+    "name": "Gol.D.Roger",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-118",
+    "name": "Gol.D.Roger",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-118",
+    "name": "Gol.D.Roger",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-119",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP09-119",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-119",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP04-119",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP05-067",
+    "name": "Zoro-Juurou",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p4"
+  },
+  {
+    "code": "OP05-093",
+    "name": "Rob Lucci",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP05-119",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p5"
+  },
+  {
+    "code": "OP07-015",
+    "name": "Monkey.D.Dragon",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP07-051",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP08-106",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p4"
+  },
+  {
+    "code": "OP09-004",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP09-051",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP09-093",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  }
+]
+}
