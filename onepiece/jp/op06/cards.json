@@ -1,0 +1,1061 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-06",
+    "name": "Wings of Captain",
+    "totalCards": 150
+  },
+  "cards": [
+  {
+    "code": "OP06-001",
+    "name": "Uta",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP06-001",
+    "name": "Uta",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-002",
+    "name": "Inazuma",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-003",
+    "name": "Emporio.Ivankov",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-004",
+    "name": "Baron Omatsuri",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-005",
+    "name": "Gasparde",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-006",
+    "name": "Sage",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-007",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-007",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-008",
+    "name": "Schneider",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-009",
+    "name": "Shuraiya",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-009",
+    "name": "Shuraiya",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-010",
+    "name": "Douglas Bullet",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-011",
+    "name": "Tot Musica",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-012",
+    "name": "Bear.King",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-013",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-013",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-014",
+    "name": "Ratchet",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-015",
+    "name": "Lily Carnation",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-016",
+    "name": "Raise Max",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-017",
+    "name": "Meteor-Strike of Love",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-018",
+    "name": "Gum-Gum King Kong Gatling",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-019",
+    "name": "Blue Dragon Seal Water Stream",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-020",
+    "name": "Hody Jones",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP06-020",
+    "name": "Hody Jones",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-021",
+    "name": "Perona",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP06-021",
+    "name": "Perona",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-022",
+    "name": "Yamato",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP06-022",
+    "name": "Yamato",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-023",
+    "name": "Arlong",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-024",
+    "name": "Ikaros Much",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-025",
+    "name": "Camie",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-025",
+    "name": "Camie",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-026",
+    "name": "Koushirou",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-027",
+    "name": "Gyro",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-028",
+    "name": "Zeo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-029",
+    "name": "Daruma",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-030",
+    "name": "Dosun",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-031",
+    "name": "Hatchan",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-032",
+    "name": "Hammond",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-033",
+    "name": "Vander Decken IX",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-034",
+    "name": "Hyouzou",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-035",
+    "name": "Hody Jones",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-035",
+    "name": "Hody Jones",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-036",
+    "name": "Ryuma",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-037",
+    "name": "Wadatsumi",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-038",
+    "name": "The Billion-fold World Trichiliocosm",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-039",
+    "name": "You Ain't Even Worth Killing Time!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-040",
+    "name": "Shark Arrows",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-041",
+    "name": "The Ark Noah",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-042",
+    "name": "Vinsmoke Reiju",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP06-042",
+    "name": "Vinsmoke Reiju",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-043",
+    "name": "Aramaki",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-043",
+    "name": "Aramaki",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-044",
+    "name": "Gion",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-045",
+    "name": "Kuzan",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-046",
+    "name": "Sakazuki",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-047",
+    "name": "Charlotte Pudding",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-048",
+    "name": "Zeff",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-049",
+    "name": "Sengoku",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-050",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-050",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-051",
+    "name": "Tsuru",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-052",
+    "name": "Tokikake",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-053",
+    "name": "Jaguar.D.Saul",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-054",
+    "name": "Borsalino",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-055",
+    "name": "Monkey.D.Garp",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-056",
+    "name": "Ama no Murakumo Sword",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-057",
+    "name": "But I Will Never Doubt a Woman's Tears!!!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-058",
+    "name": "Gravity Blade Raging Tiger",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-059",
+    "name": "White Snake",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-060",
+    "name": "Vinsmoke Ichiji",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-061",
+    "name": "Vinsmoke Ichiji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-061",
+    "name": "Vinsmoke Ichiji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-062",
+    "name": "Vinsmoke Judge",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-062",
+    "name": "Vinsmoke Judge",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-063",
+    "name": "Vinsmoke Sora",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-064",
+    "name": "Vinsmoke Niji",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-065",
+    "name": "Vinsmoke Niji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-066",
+    "name": "Vinsmoke Yonji",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-067",
+    "name": "Vinsmoke Yonji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-068",
+    "name": "Vinsmoke Reiju",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-069",
+    "name": "Vinsmoke Reiju",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-069",
+    "name": "Vinsmoke Reiju",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-070",
+    "name": "Eldoraggo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-071",
+    "name": "Gild Tesoro",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-072",
+    "name": "Cosette",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-073",
+    "name": "Shiki",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-074",
+    "name": "Zephyr (Navy)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-075",
+    "name": "Count Battler",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-076",
+    "name": "Hitokiri Kamazo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-077",
+    "name": "Black Bug",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-078",
+    "name": "GERMA 66",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-079",
+    "name": "Kingdom of GERMA",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-080",
+    "name": "Gecko Moria",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP06-080",
+    "name": "Gecko Moria",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-081",
+    "name": "Absalom",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-081",
+    "name": "Absalom",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-082",
+    "name": "Inuppe",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-083",
+    "name": "Oars",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-084",
+    "name": "Jigoro of the Wind",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-085",
+    "name": "Kumacy",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-086",
+    "name": "Gecko Moria",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-086",
+    "name": "Gecko Moria",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-087",
+    "name": "Cerberus",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-088",
+    "name": "Sai",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-089",
+    "name": "Taralan",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-090",
+    "name": "Dr. Hogback",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-091",
+    "name": "Victoria Cindry",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-092",
+    "name": "Brook",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-093",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-093",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-094",
+    "name": "Lola",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-095",
+    "name": "Shadows Asgard",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-096",
+    "name": "...Nothing...at All!!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-097",
+    "name": "Negative Hollow",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-098",
+    "name": "Thriller Bark",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-099",
+    "name": "Aisa",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-100",
+    "name": "Inuarashi",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-101",
+    "name": "O-Nami",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-101",
+    "name": "O-Nami",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-102",
+    "name": "Kamakiri",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-103",
+    "name": "Kawamatsu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-104",
+    "name": "Kikunojo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-105",
+    "name": "Genbo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-106",
+    "name": "Kouzuki Hiyori",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-106",
+    "name": "Kouzuki Hiyori",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-107",
+    "name": "Kouzuki Momonosuke",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP06-107",
+    "name": "Kouzuki Momonosuke",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-108",
+    "name": "Tenguyama Hitetsu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-109",
+    "name": "Denjiro",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-110",
+    "name": "Nekomamushi",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-111",
+    "name": "Braham",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-112",
+    "name": "Raizo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-113",
+    "name": "Raki",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-114",
+    "name": "Wyper",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-115",
+    "name": "You're the One Who Should Disappear.",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-116",
+    "name": "Reject",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP06-117",
+    "name": "The Ark Maxim",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP06-118",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-118",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-118",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP06-119",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP06-119",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP03-008",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "OP03-114",
+    "name": "Charlotte Linlin",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP04-024",
+    "name": "Sugar",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP04-064",
+    "name": "Ms. All Sunday",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP05-051",
+    "name": "Borsalino",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP05-091",
+    "name": "Rebecca",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  }
+]
+}
