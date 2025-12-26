@@ -1,0 +1,1229 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-13",
+    "name": "Carrying on His Will",
+    "totalCards": 174
+  },
+  "cards": [
+  {
+    "code": "OP13-001",
+    "name": "Monkey.D.Luffy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP13-001",
+    "name": "Monkey.D.Luffy",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-002",
+    "name": "Portgas.D.Ace",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP13-002",
+    "name": "Portgas.D.Ace",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-003",
+    "name": "Gol.D.Roger",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP13-003",
+    "name": "Gol.D.Roger",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-004",
+    "name": "Sabo",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP13-004",
+    "name": "Sabo",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-005",
+    "name": "Inazuma",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-006",
+    "name": "Woop Slap",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-007",
+    "name": "Ace & Sabo & Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-007",
+    "name": "Ace & Sabo & Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-008",
+    "name": "Emporio.Ivankov",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-009",
+    "name": "Curly.Dadan",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-010",
+    "name": "Lord of the Coast",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-011",
+    "name": "Nefeltari Cobra",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-012",
+    "name": "Nefeltari Vivi",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-013",
+    "name": "Higuma",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-014",
+    "name": "Portgas.D.Rouge",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-015",
+    "name": "Makino",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-016",
+    "name": "Monkey.D.Garp",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-016",
+    "name": "Monkey.D.Garp",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-017",
+    "name": "Monkey.D.Dragon",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-018",
+    "name": "Wapol",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-019",
+    "name": "But Ace Here Said You Deserved It!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-020",
+    "name": "Meteor Fist",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-021",
+    "name": "Gum-Gum Gatling Gun",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-022",
+    "name": "Windmill Village",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-023",
+    "name": "Uta",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-023",
+    "name": "Uta",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-024",
+    "name": "Gordon",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-025",
+    "name": "Koby",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-026",
+    "name": "Sunny-Kun",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-027",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-027",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-028",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-028",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-029",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-030",
+    "name": "Tony Tony.Chopper",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-031",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-032",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-033",
+    "name": "Franky",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-034",
+    "name": "Brook",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-035",
+    "name": "Bepo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-036",
+    "name": "Helmeppo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-037",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-038",
+    "name": "Gum-Gum Elephant Gun",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-039",
+    "name": "Gum-Gum Snake Shot",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-040",
+    "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-041",
+    "name": "Izo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-042",
+    "name": "Edward.Newgate",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-042",
+    "name": "Edward.Newgate",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-043",
+    "name": "Otama",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-044",
+    "name": "Curiel",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-045",
+    "name": "Haruta",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-046",
+    "name": "Vista",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-047",
+    "name": "Fossa",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-048",
+    "name": "Blamenco",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-049",
+    "name": "Blenheim",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-050",
+    "name": "Boa Sandersonia",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-051",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-051",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-052",
+    "name": "Boa Marigold",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-053",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-054",
+    "name": "Yamato",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-054",
+    "name": "Yamato",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-055",
+    "name": "Rakuyo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-056",
+    "name": "LittleOars Jr.",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-057",
+    "name": "If I Bowed Down to Power, What's the Point in Living?",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-058",
+    "name": "Phoenix Pyreapple",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-059",
+    "name": "Brilliant Punk",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-060",
+    "name": "Amatsuki Toki",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-061",
+    "name": "Inuarashi",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-062",
+    "name": "Crocus",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-063",
+    "name": "Kouzuki Oden",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-064",
+    "name": "Gol.D.Roger",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-064",
+    "name": "Gol.D.Roger",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-065",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-065",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-066",
+    "name": "Silvers Rayleigh",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-066",
+    "name": "Silvers Rayleigh",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-067",
+    "name": "Scopper Gaban",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-068",
+    "name": "Douglas Bullet",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-069",
+    "name": "Tom",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-070",
+    "name": "Napoleon",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-071",
+    "name": "Nekomamushi",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-072",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-073",
+    "name": "Prometheus",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-074",
+    "name": "Hera",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-075",
+    "name": "Guess We'll Have Another Scrap. You Can Only Risk Death While You're Still Alive!!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-076",
+    "name": "Divine Departure",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-076",
+    "name": "Divine Departure",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-077",
+    "name": "Go All the Way to the Top!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-078",
+    "name": "Oro Jackson",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-079",
+    "name": "Imu",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP13-079",
+    "name": "Imu",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-080",
+    "name": "St. Ethanbaron V. Nusjuro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-080",
+    "name": "St. Ethanbaron V. Nusjuro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-080",
+    "name": "St. Ethanbaron V. Nusjuro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-081",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-082",
+    "name": "Five Elders",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-082",
+    "name": "Five Elders",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-083",
+    "name": "St. Jaygarcia Saturn",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-083",
+    "name": "St. Jaygarcia Saturn",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-083",
+    "name": "St. Jaygarcia Saturn",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-084",
+    "name": "St. Shepherd Ju Peter",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-084",
+    "name": "St. Shepherd Ju Peter",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-084",
+    "name": "St. Shepherd Ju Peter",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-085",
+    "name": "Saint Jalmac",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-086",
+    "name": "Saint Shalria",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-087",
+    "name": "Saint Charlos",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-088",
+    "name": "Terry Gilteo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-089",
+    "name": "St. Topman Warcury",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-089",
+    "name": "St. Topman Warcury",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-089",
+    "name": "St. Topman Warcury",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-090",
+    "name": "Hack",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-091",
+    "name": "St. Marcus Mars",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-091",
+    "name": "St. Marcus Mars",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-091",
+    "name": "St. Marcus Mars",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-092",
+    "name": "Saint Mjosgard",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-093",
+    "name": "Morgans",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-094",
+    "name": "York",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-095",
+    "name": "Saint Rosward",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-096",
+    "name": "The Five Elders Are at Your Service!!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-097",
+    "name": "The World's Equilibrium Cannot Be Maintained Forever",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-098",
+    "name": "Never Existed... in the First Place...",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-099",
+    "name": "The Empty Throne",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-100",
+    "name": "Jewelry Bonney",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP13-100",
+    "name": "Jewelry Bonney",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-101",
+    "name": "Atlas",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-102",
+    "name": "Edison",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-103",
+    "name": "Gyogyo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-104",
+    "name": "Kouzuki Hiyori",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-105",
+    "name": "Kouzuki Momonosuke",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-106",
+    "name": "Conney",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-107",
+    "name": "Shaka",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-108",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-108",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-109",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-110",
+    "name": "Stussy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-110",
+    "name": "Stussy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP13-111",
+    "name": "Pythagoras",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-112",
+    "name": "Vegapunk",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-113",
+    "name": "Lilith",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-113",
+    "name": "Lilith",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-114",
+    "name": "S-Snake",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-114",
+    "name": "S-Snake",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-115",
+    "name": "Paper Art Afterimage",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP13-116",
+    "name": "The One Who Is the Most Free Is the Pirate King!!!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP13-117",
+    "name": "Gum-Gum Dawn Stamp",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP13-118",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-118",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-118",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p3"
+  },
+  {
+    "code": "OP13-118",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": ""
+  },
+  {
+    "code": "OP13-118",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p4"
+  },
+  {
+    "code": "OP13-119",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-119",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-119",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p3"
+  },
+  {
+    "code": "OP13-119",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": ""
+  },
+  {
+    "code": "OP13-119",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p4"
+  },
+  {
+    "code": "OP13-120",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP13-120",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP13-120",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p3"
+  },
+  {
+    "code": "OP13-120",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": ""
+  },
+  {
+    "code": "OP13-120",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p4"
+  },
+  {
+    "code": "EB02-028",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "OP07-111",
+    "name": "Lilith",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP07-118",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-004",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p5"
+  },
+  {
+    "code": "OP09-004",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p6"
+  },
+  {
+    "code": "OP09-009",
+    "name": "Benn.Beckman",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-118",
+    "name": "Gol.D.Roger",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP09-119",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP10-030",
+    "name": "Smoker",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  }
+]
+}
