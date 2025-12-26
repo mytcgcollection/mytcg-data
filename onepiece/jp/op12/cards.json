@@ -1,0 +1,1089 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-12",
+    "name": "Legacy of the Master",
+    "totalCards": 154
+  },
+  "cards": [
+  {
+    "code": "OP12-001",
+    "name": "Silvers Rayleigh",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP12-001",
+    "name": "Silvers Rayleigh",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-002",
+    "name": "Edward.Newgate",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-003",
+    "name": "Crocus",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-004",
+    "name": "Kouzuki Oden",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-005",
+    "name": "Shiki",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-006",
+    "name": "Shakuyaku",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-007",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-008",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-008",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-009",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-010",
+    "name": "Douglas Bullet",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-011",
+    "name": "Duval",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-012",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-013",
+    "name": "Hatchan",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-014",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-014",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-015",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-015",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-016",
+    "name": "To Never Doubt--That Is Power!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-017",
+    "name": "Color of Observation Haki",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-018",
+    "name": "Color of the Supreme King Haki",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-019",
+    "name": "Color of Arms Haki",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-020",
+    "name": "Roronoa Zoro",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP12-020",
+    "name": "Roronoa Zoro",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-021",
+    "name": "Ipponmatsu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-022",
+    "name": "Inuarashi",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-023",
+    "name": "Kawamatsu",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-024",
+    "name": "Gyukimaru",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-025",
+    "name": "Kin'emon",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-026",
+    "name": "Kuina",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-027",
+    "name": "Koushirou",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-028",
+    "name": "Kouzuki Hiyori",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-029",
+    "name": "Shimotsuki Kouzaburou",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-030",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-030",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-031",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-031",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-032",
+    "name": "Nekomamushi",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-033",
+    "name": "Helmeppo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-034",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-034",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-035",
+    "name": "Morgan",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-036",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-037",
+    "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-037",
+    "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-038",
+    "name": "Two-Sword Style Rashomon",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-039",
+    "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-040",
+    "name": "Kuzan",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP12-040",
+    "name": "Kuzan",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-041",
+    "name": "Sanji",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP12-041",
+    "name": "Sanji",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-042",
+    "name": "Alvida",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-043",
+    "name": "Kuzan",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-043",
+    "name": "Kuzan",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-044",
+    "name": "Sakazuki",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-045",
+    "name": "Jango",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-046",
+    "name": "Zephyr(Navy)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-047",
+    "name": "Sengoku",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-048",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-049",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-050",
+    "name": "Jaguar.D.Saul",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-051",
+    "name": "Hina",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-052",
+    "name": "Fullbody",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-053",
+    "name": "Borsalino",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-054",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-055",
+    "name": "Mohji & Cabaji",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-056",
+    "name": "Monkey.D.Garp",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-056",
+    "name": "Monkey.D.Garp",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-057",
+    "name": "Ice Block Pheasant Peck",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-058",
+    "name": "I Will Make Whitebeard the King of the Pirates",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-059",
+    "name": "Concasser",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-060",
+    "name": "Bowuf Burst",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-060",
+    "name": "Bowuf Burst",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-061",
+    "name": "Donquixote Rosinante",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP12-061",
+    "name": "Donquixote Rosinante",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-062",
+    "name": "Vinsmoke Sora",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-063",
+    "name": "Vinsmoke Reiju",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-063",
+    "name": "Vinsmoke Reiju",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-064",
+    "name": "Vergo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-065",
+    "name": "Emporio.Ivankov",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-066",
+    "name": "Carne",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-067",
+    "name": "Carmen",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-068",
+    "name": "Gin",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-069",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-070",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-070",
+    "name": "Sanji",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-071",
+    "name": "Charlotte Pudding",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-072",
+    "name": "Zeff",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-073",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-073",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-074",
+    "name": "Patty",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-075",
+    "name": "Ms. All Sunday",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-076",
+    "name": "Monet",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-077",
+    "name": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-078",
+    "name": "Brochette Blow",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-079",
+    "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-080",
+    "name": "Baratie",
+    "type": "STAGE",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-081",
+    "name": "Koala",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP12-081",
+    "name": "Koala",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-082",
+    "name": "Issho",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-083",
+    "name": "Inazuma",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-084",
+    "name": "Emporio.Ivankov",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-085",
+    "name": "Karasu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-086",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-086",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-087",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-087",
+    "name": "Nico Robin",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-088",
+    "name": "Bastille",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-089",
+    "name": "Hack",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-090",
+    "name": "Belo Betty",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-091",
+    "name": "Poker",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-092",
+    "name": "Mizerka",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-093",
+    "name": "Morley",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-094",
+    "name": "Monkey.D.Dragon",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-094",
+    "name": "Monkey.D.Dragon",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-095",
+    "name": "Lindbergh",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-096",
+    "name": "Ursa Shock",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-097",
+    "name": "Captains Assembled",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-098",
+    "name": "Hair Removal Fist",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-099",
+    "name": "Kalgara",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-100",
+    "name": "Sabo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-101",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-102",
+    "name": "Shirahoshi",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP12-102",
+    "name": "Shirahoshi",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-103",
+    "name": "Seto",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-104",
+    "name": "Sentomaru",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-105",
+    "name": "Trafalgar Lammy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-106",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-107",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-108",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-108",
+    "name": "Donquixote Rosinante",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-109",
+    "name": "Pacifista",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-110",
+    "name": "Buffalo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-111",
+    "name": "Baby 5",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-112",
+    "name": "Baby 5",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-113",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-114",
+    "name": "Wyper",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-115",
+    "name": "I Love You!!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-116",
+    "name": "We'll Ring the Bell Waiting for You!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP12-117",
+    "name": "Slam Gibson",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP12-118",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-118",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-118",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP12-119",
+    "name": "Bartholomew Kuma",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP12-119",
+    "name": "Bartholomew Kuma",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP06-050",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-013",
+    "name": "Yasopp",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "OP09-037",
+    "name": "Lim",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-093",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p4"
+  },
+  {
+    "code": "OP09-093",
+    "name": "Marshall.D.Teach",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p5"
+  },
+  {
+    "code": "OP10-082",
+    "name": "Kuzan",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "ST13-011",
+    "name": "Portgas.D.Ace",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "ST18-004",
+    "name": "Zoro-Juurou",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  }
+]
+}
