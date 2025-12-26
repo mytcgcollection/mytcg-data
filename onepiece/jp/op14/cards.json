@@ -1,0 +1,1103 @@
+{
+  "game": "ONE_PIECE",
+  "language": "JP",
+  "set": {
+    "code": "OP-14",
+    "name": "The Azure Sea's Seven",
+    "totalCards": 156
+  },
+  "cards": [
+  {
+    "code": "OP14-001",
+    "name": "Trafalgar Law",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP14-001",
+    "name": "Trafalgar Law",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-002",
+    "name": "Urouge",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-003",
+    "name": "Capone\"Gang\"Bege",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-004",
+    "name": "Cavendish",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-005",
+    "name": "Killer",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-006",
+    "name": "Shachi & Penguin",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-007",
+    "name": "Jewelry Bonney",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-008",
+    "name": "Scratchmen Apoo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-009",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-009",
+    "name": "Trafalgar Law",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-010",
+    "name": "Basil Hawkins",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-011",
+    "name": "Bartolomeo",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-012",
+    "name": "Bepo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-013",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-013",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-014",
+    "name": "Eustass\"Captain\"Kid",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-015",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-015",
+    "name": "Roronoa Zoro",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-016",
+    "name": "X.Drake",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-017",
+    "name": "Chambres",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-018",
+    "name": "Time for the Counterattack",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-019",
+    "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-020",
+    "name": "Dracule Mihawk",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP14-020",
+    "name": "Dracule Mihawk",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-021",
+    "name": "Issho",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-022",
+    "name": "Usopp",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-023",
+    "name": "Kikunojo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-024",
+    "name": "Kin'emon",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-025",
+    "name": "Kuro",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-026",
+    "name": "Kouzuki Oden",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-027",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-027",
+    "name": "Shanks",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-028",
+    "name": "Johnny",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-029",
+    "name": "Tashigi",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-030",
+    "name": "Chaka & Pell",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-031",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-031",
+    "name": "Nami",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-032",
+    "name": "Humandrill",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-033",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-033",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-034",
+    "name": "Monkey.D.Luffy",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-035",
+    "name": "Yosaku",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-036",
+    "name": "Strive to Surpass me, Roronoa Zoro!!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-037",
+    "name": "For Fun",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-038",
+    "name": "I Never Bother to Remember the Faces of Trash",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-039",
+    "name": "Coffin Boat",
+    "type": "STAGE",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-040",
+    "name": "Jinbe",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP14-040",
+    "name": "Jinbe",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-041",
+    "name": "Boa Hancock",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP14-041",
+    "name": "Boa Hancock",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-042",
+    "name": "Arlong",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-042",
+    "name": "Arlong",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-043",
+    "name": "Aladine",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-044",
+    "name": "Edward.Newgate",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-045",
+    "name": "Kuroobi",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-046",
+    "name": "Koala",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-047",
+    "name": "Shirahoshi",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-048",
+    "name": "Shiryu",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-049",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-049",
+    "name": "Jinbe",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-050",
+    "name": "Chew",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-051",
+    "name": "Hatchan",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-052",
+    "name": "Hannyabal",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-053",
+    "name": "Vista",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-054",
+    "name": "Fisher Tiger",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-055",
+    "name": "The Macro Gang",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-056",
+    "name": "Wadatsumi",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-057",
+    "name": "Don't Worry!! I'm Here!!",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-058",
+    "name": "Ocean Current Shoulder Throw",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-059",
+    "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-060",
+    "name": "Donquixote Doflamingo",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP14-060",
+    "name": "Donquixote Doflamingo",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-061",
+    "name": "Vergo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-061",
+    "name": "Vergo",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-062",
+    "name": "Gladius",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-063",
+    "name": "Sugar",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-064",
+    "name": "Giolla",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-065",
+    "name": "Senor Pink",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-066",
+    "name": "Diamante",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-067",
+    "name": "Dellinger",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-068",
+    "name": "Trebol",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-069",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-069",
+    "name": "Donquixote Doflamingo",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-070",
+    "name": "Buffalo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-071",
+    "name": "Pica",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-072",
+    "name": "Baby 5",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-073",
+    "name": "Machvise",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-074",
+    "name": "Monet",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-075",
+    "name": "Lao.G",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-076",
+    "name": "Ever White",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-077",
+    "name": "Penta-Chromatic String",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-078",
+    "name": "Bullet String",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-079",
+    "name": "Crocodile",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP14-079",
+    "name": "Crocodile",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-080",
+    "name": "Gecko Moria",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": ""
+  },
+  {
+    "code": "OP14-080",
+    "name": "Gecko Moria",
+    "type": "LEADER",
+    "rarity": "L",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-081",
+    "name": "Spider Mice",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-082",
+    "name": "Oinkchuck",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-083",
+    "name": "Ms. Wednesday",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-084",
+    "name": "Ms. All Sunday",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-084",
+    "name": "Ms. All Sunday",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-085",
+    "name": "Miss.Goldenweek(Marianne)",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-086",
+    "name": "Miss.Doublefinger(Zala)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-087",
+    "name": "Miss.Valentine(Mikita)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-088",
+    "name": "Miss.MerryChristmas(Drophy)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-089",
+    "name": "Ryuma",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-090",
+    "name": "Mr.1(Daz.Bonez)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-090",
+    "name": "Mr.1(Daz.Bonez)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-091",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-091",
+    "name": "Mr.2.Bon.Kurei(Bentham)",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-092",
+    "name": "Mr.3(Galdino)",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-093",
+    "name": "Mr.4(Babe)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-094",
+    "name": "Mr.5(Gem)",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-095",
+    "name": "Mr.9",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-096",
+    "name": "Ground Death",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-096",
+    "name": "Ground Death",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-097",
+    "name": "Hurry Up and Make Me the Pirate King!",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-098",
+    "name": "Crescent Cutlass",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-099",
+    "name": "Disappointed",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-100",
+    "name": "Absalom",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-101",
+    "name": "Oars",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-102",
+    "name": "Kumacy",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-103",
+    "name": "Gloriosa (Grandma Nyon)",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-104",
+    "name": "Gecko Moria",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-104",
+    "name": "Gecko Moria",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-105",
+    "name": "Gorgon Sisters",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-106",
+    "name": "Salome",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-107",
+    "name": "Shakuyaku",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-108",
+    "name": "Silvers Rayleigh",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-109",
+    "name": "Victoria Cindry",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-110",
+    "name": "Dr. Hogback",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-111",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-111",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-112",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": ""
+  },
+  {
+    "code": "OP14-112",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SR",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-112",
+    "name": "Boa Hancock",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP14-113",
+    "name": "Marguerite",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-114",
+    "name": "Ran",
+    "type": "CHARACTER",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-115",
+    "name": "Rindo",
+    "type": "CHARACTER",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-116",
+    "name": "Salamander",
+    "type": "EVENT",
+    "rarity": "C",
+    "variant": ""
+  },
+  {
+    "code": "OP14-117",
+    "name": "Brick Bat",
+    "type": "EVENT",
+    "rarity": "UC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-118",
+    "name": "You'll Frighten Me... ♡",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": ""
+  },
+  {
+    "code": "OP14-118",
+    "name": "You'll Frighten Me... ♡",
+    "type": "EVENT",
+    "rarity": "R",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-119",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-119",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "OP14-119",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p2"
+  },
+  {
+    "code": "OP14-120",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": ""
+  },
+  {
+    "code": "OP14-120",
+    "name": "Crocodile",
+    "type": "CHARACTER",
+    "rarity": "SEC",
+    "variant": "p1"
+  },
+  {
+    "code": "EB01-003",
+    "name": "Kid & Killer",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP06-093",
+    "name": "Perona",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p3"
+  },
+  {
+    "code": "OP07-046",
+    "name": "Sengoku",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  },
+  {
+    "code": "OP09-051",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p5"
+  },
+  {
+    "code": "OP09-051",
+    "name": "Buggy",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p6"
+  },
+  {
+    "code": "OP10-065",
+    "name": "Sugar",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p1"
+  },
+  {
+    "code": "OP12-030",
+    "name": "Dracule Mihawk",
+    "type": "CHARACTER",
+    "rarity": "SP",
+    "variant": "p2"
+  }
+]
+}
